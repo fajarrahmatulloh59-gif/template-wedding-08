@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" fill="none" stroke="#B69A62" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Siger Sunda Silhouette & Filigree -->
+  <path d="M100 10 L108 40 L126 22 L126 50 L148 36 L142 64 L168 54 L154 80 L180 76 L160 96 L100 100 L40 96 L20 76 L46 80 L32 54 L58 64 L52 36 L74 50 L74 22 L92 40 Z" fill="#B69A62" fill-opacity="0.12"/>
+  <circle cx="100" cy="8" r="3" fill="#B69A62"/>
+  <circle cx="126" cy="20" r="2.5" fill="#B69A62"/>
+  <circle cx="74" cy="20" r="2.5" fill="#B69A62"/>
+  <circle cx="148" cy="34" r="2.5" fill="#B69A62"/>
+  <circle cx="52" cy="34" r="2.5" fill="#B69A62"/>
+  <circle cx="168" cy="52" r="2" fill="#B69A62"/>
+  <circle cx="32" cy="52" r="2" fill="#B69A62"/>
+  <!-- Central Jewel & Filigree Arcs -->
+  <path d="M100 35 C108 45 116 55 100 70 C84 55 92 45 100 35 Z" fill="#B69A62" fill-opacity="0.25"/>
+  <circle cx="100" cy="52" r="3.5" fill="#B69A62"/>
+  <path d="M70 78 C85 68 115 68 130 78" stroke="#B69A62" stroke-width="1.2"/>
+  <path d="M80 86 C92 78 108 78 120 86" stroke="#B69A62" stroke-width="1"/>
+  <!-- Base Crown Band -->
+  <path d="M30 100 Q100 112 170 100" stroke="#B69A62" stroke-width="2.5"/>
+  <path d="M35 106 Q100 118 165 106" stroke="#B69A62" stroke-width="1.2"/>
+  <!-- Jasmine Drops (Ronce Melati) hint -->
+  <circle cx="35" cy="112" r="2" fill="#B69A62"/>
+  <circle cx="165" cy="112" r="2" fill="#B69A62"/>
+  <circle cx="100" cy="116" r="2.5" fill="#B69A62"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 120" fill="none" stroke="#B69A62" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Botanical Pasundan Sulur Vine Left to Right -->
+  <path d="M10 60 Q70 10 150 60 T290 60" stroke-width="1.8"/>
+  <!-- Branching leaves & Tendrils -->
+  <path d="M50 42 C45 25 65 20 70 35 C75 50 55 55 50 42 Z" fill="#B69A62" fill-opacity="0.15" stroke-width="1.2"/>
+  <path d="M110 52 C105 32 128 28 132 46 C136 60 115 65 110 52 Z" fill="#B69A62" fill-opacity="0.15" stroke-width="1.2"/>
+  <path d="M180 68 C175 88 198 92 202 74 C206 60 185 55 180 68 Z" fill="#B69A62" fill-opacity="0.15" stroke-width="1.2"/>
+  <path d="M240 76 C235 95 258 100 262 82 C266 68 245 62 240 76 Z" fill="#B69A62" fill-opacity="0.15" stroke-width="1.2"/>
+  <!-- Spiraling curls -->
+  <path d="M80 32 Q95 18 85 10 T72 15" stroke-width="1.2"/>
+  <path d="M210 88 Q225 102 215 110 T202 105" stroke-width="1.2"/>
+  <circle cx="150" cy="60" r="3.5" fill="#B69A62"/>
+</svg>

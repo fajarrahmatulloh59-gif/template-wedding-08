@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 40" fill="none" stroke="#B69A62" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Left Wing Line -->
+  <line x1="20" y1="20" x2="160" y2="20" stroke-width="1.2"/>
+  <circle cx="20" cy="20" r="2" fill="#B69A62"/>
+  <path d="M120 15 Q140 8 155 18" stroke-width="1"/>
+  <path d="M120 25 Q140 32 155 22" stroke-width="1"/>
+  
+  <!-- Center Diamond & Floral Rosette -->
+  <polygon points="200,10 208,20 200,30 192,20" fill="#B69A62" fill-opacity="0.2" stroke-width="1.5"/>
+  <circle cx="200" cy="20" r="3" fill="#B69A62"/>
+  <circle cx="184" cy="20" r="2" fill="#B69A62"/>
+  <circle cx="216" cy="20" r="2" fill="#B69A62"/>
+  
+  <!-- Right Wing Line -->
+  <line x1="240" y1="20" x2="380" y2="20" stroke-width="1.2"/>
+  <circle cx="380" cy="20" r="2" fill="#B69A62"/>
+  <path d="M280 15 Q260 8 245 18" stroke-width="1"/>
+  <path d="M280 25 Q260 32 245 22" stroke-width="1"/>
+</svg>
